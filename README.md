@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alvarobianor/alvarobianor/main/github_profile_banner.png" alt="Banner" width="100%" />
+  <img src="github_profile_banner.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -48,6 +48,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/alvarobianor/alvarobianor/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarobianor&theme=tokyo-night&hide_border=true&area=true&color=3D8BFF" alt="Contribution Graph" width="100%" />
 </div>
 
@@ -57,15 +61,64 @@
 
 ---
 
-### 🛠️ Tecnologias | Technologies
+### 🛠️ Tecnologias & Habilidades | Technologies & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,django,flask,spring,postgres,mongodb,mysql,redis,docker,aws,linux,git,vscode,postman" alt="My Skills" />
 </div>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Frontend</strong></td>
+    <td align="center" width="250"><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database & Infrastructure</strong></td>
+    <td align="center"><strong>Tools & Others</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clean_Architecture-lightgrey?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### � Contato | Connect with Me
+### 💬 Contato | Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alvarobianor/" target="_blank">
