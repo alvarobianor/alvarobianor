@@ -37,10 +37,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarobianor&theme=tokyo-night&hide_border=true&area=true&color=3D8BFF" alt="Contribution Graph" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvarobianor&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
-
 ---
 
 ### 🛠️ Tecnologias & Habilidades | Technologies & Skills
