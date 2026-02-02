@@ -30,24 +30,6 @@
 ### 📊 Estatísticas | Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=alvarobianor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3D8BFF&icon_color=3D8BFF&text_color=a9b1d6" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobianor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3D8BFF&text_color=a9b1d6" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarobianor&theme=tokyonight&hide_border=true&stroke=3D8BFF&ring=3D8BFF&fire=3D8BFF&currStreakLabel=3D8BFF" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/alvarobianor/alvarobianor/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
 </div>
 
