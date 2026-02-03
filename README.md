@@ -15,15 +15,17 @@
 ### � Sobre Mim | About Me
 
 <p align="left">
-  👋 Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Adoro transformar problemas complexos em códigos simples e elegantes.
+  👋 <strong>Hello! I'm a Software Engineer focused on building scalable, high-performance applications.</strong> <br>
+  I specialize in solving complex technical challenges by combining robust engineering with modern technologies, including <strong>AI-driven solutions</strong>. My passion lies in optimizing systems, ensuring clean architecture, and delivering products that generate real impact.
   <br><br>
-  👋 Hi! I'm a technology-passionate developer focused on creating efficient and scalable solutions. I love turning complex problems into simple and elegant code.
+  👋 <strong>Olá! Sou um Engenheiro de Software focado em construir aplicações escaláveis e de alta performance.</strong> <br>
+  Especializo-me em resolver desafios técnicos complexos combinando engenharia robusta com tecnologias modernas, incluindo <strong>soluções impulsionadas por IA</strong>. Minha paixão está em otimizar sistemas, garantir arquitetura limpa e entregar produtos que geram impacto real.
 </p>
 
-- 💻 **Foco atual:** Node.js, React e Ecossistema Java/Spring.
-- 🚀 **Objetivo:** Construir arquiteturas sólidas e performáticas.
-- 🌱 **Sempre aprendendo:** Explorando novas tecnologias e melhores práticas de Clean Code e SOLID.
-- ⚡ **Fun fact:** O café é o combustível, o código é a arte.
+- 💻 **Current Focus:** Deepening expertise in **Node.js, React, Java/Spring**, and **AI Integration**.
+- 🚀 **Goal:** Designing resilient architectures and optimizing application performance for scale.
+- 🌱 **Continuous Growth:** Mastering **System Design**, **Cloud Computing**, and **DevOps** practices.
+- ⚡ **Motto:** "Efficiency is not just about speed, it's about impact." | "Eficiência não é apenas sobre velocidade, é sobre impacto."
 
 ---
 
